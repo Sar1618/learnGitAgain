@@ -5,3 +5,4 @@ Git tracks changes of files.
 Create a branch dev.
 Git is very useful, oh yeah.
 Yeah, I'm ok.
+Fix bug.
